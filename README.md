@@ -1,4 +1,4 @@
-# INSTRUMENTATION-AMPLIFIER
+  # INSTRUMENTATION-AMPLIFIER
 
 AIM:
 To construct and test the CMRR of an instrumentation amplifier using op-amp IC741.
@@ -33,9 +33,20 @@ MODEL GRAPH:
 
 TABULATION:
 
+ 
+  
+  ![WhatsApp Image 2025-11-15 at 11 49 09 PM](https://github.com/user-attachments/assets/b7cf5c7a-b7f5-47d6-be40-a7bcd58300c3)
+
+  
+  ![WhatsApp Image 2025-11-15 at 11 50 08 PM](https://github.com/user-attachments/assets/1eee6f99-a798-4a9a-89b1-12f092853a0a)
+
 
 GRAPH: 
 
 
-RESULT:
+![WhatsApp Image 2025-11-15 at 11 49 34 PM](https://github.com/user-attachments/assets/555d95c2-3206-477e-ab3c-c0dddaacd5a9)
 
+
+
+RESULT:
+Thus an instrumentation amplifier was constructed and tested using op-amp IC 741.
